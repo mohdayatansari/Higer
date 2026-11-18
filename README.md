@@ -11,6 +11,7 @@
 * [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
 * [Structure](./STRUCTURE.md) — Repository directory breakdown and file tree
 * [License](./LICENSE.md) — Commercial and personal usage terms
+* [Glyph Showcase](./SHOWCASE.md) — Comprehensive visual specimen and animated glyph set
 
 ---
 
