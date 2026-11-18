@@ -1,8 +1,8 @@
 # HIGER
 
-**Higer** is a modern, high-contrast editorial serif typeface designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with razor-sharp chiseled serifs.
+**Higer** is a modern, high-contrast editorial serif typeface designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with razor-sharp, chiselled serifs.
 
-![Higer Type Specimen](assets/higer-specimen-banner.png)
+<img width="2160" height="1440" alt="P11HIGER" src="https://github.com/user-attachments/assets/0c31ead3-8af1-4213-b2db-c81b50a49446" />
 
 ## Quick Sections
 
@@ -11,7 +11,7 @@
 * [Installing & Using Higer](#installing--using-higer)
 * [Repository Structure](#repository-structure)
 * [Current Status & Roadmap](#current-status--roadmap)
-* [License & Credits](#license--credits)
+* [License & Credits]([#license--credits](https://github.com/mohdayatansari/Higer/blob/main/License%20%26%20Credits))
 
 ---
 
