@@ -10,7 +10,7 @@
 * [Concept & Anatomy](./ANATOMY.md) — Alpine design philosophy and vertical metrics
 * [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
 * [Structure](./STRUCTURE.md) — Repository directory breakdown and file tree
-* [License](./LICENSE.md) — Commercial and personal usage terms
+* [License](./OFL-1.1 license.md) — Commercial and personal usage terms
 * [Glyph Showcase](./GLYPHS.md) — Comprehensive visual specimen and animated glyph set
 
 ---
