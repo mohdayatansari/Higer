@@ -6,7 +6,7 @@ Follow the instructions below to install **Higer** on your system for print and 
 
 ## Package Folders & Formats
 
-Your download package is organized into three format folders:
+Your download package is organised into three format folders:
 
 * **`OpenType-PS/` (`Higer.otf`):** OpenType PostScript/CFF format. Recommended for Adobe Illustrator, InDesign, Photoshop, Figma, and print publishing.
 * **`OpenType-TT/` (`Higer.ttf`):** OpenType TrueType format. Recommended for Windows/macOS system installation and office applications.
