@@ -4,23 +4,12 @@
 
 <img width="2160" height="1440" alt="P11HIGER" src="https://github.com/user-attachments/assets/0c31ead3-8af1-4213-b2db-c81b50a49446" />
 
-
 ## Quick Sections
-* [Installing & Using Higer](./Installing-and-Using-Higer.md) — Desktop installation and `@font-face` web embedding guide
-* [Character Set & OpenType Features](./Character-Set-and-OpenType-Features.md) — Glyph coverage, custom ligatures, and OpenType feature tags
-* [Design Concept & Anatomy](./Design-Concept-Anatomy-and-Roadmap.md#design-concept--anatomy) — Etymology, structural anatomy, and font master dimensions
-* [Current Status & Roadmap](./Design-Concept-Anatomy-and-Roadmap.md#current-status--roadmap) — Release v1.0 overview and planned family expansion
-* [Repository Structure](./Repository-Structure.md) — Directory breakdown and folder tree
-* [License & Credits](./License-and-Credits.md) — Free personal & commercial usage terms and author attribution
-
-## Quick Sections
-
-* [Design Concept & Anatomy](#design-concept--anatomy)
-* [Character Set & OpenType Features](#character-set--opentype-features)
-* [Installing & Using Higer](#installing--using-higer)
-* [Repository Structure](./Repository%20Structure)
-* [Current Status & Roadmap](#current-status--roadmap)
-* [License & Credits](./License%20%26%20Credits)
+* [Installation Guide](./INSTALL.md) — Desktop setup and `@font-face` web embedding
+* [Glyph & Features](./FEATURES.md) — Complete character map and OpenType tables
+* [Concept & Anatomy](./ANATOMY.md) — Alpine design philosophy and vertical metrics
+* [Structure](./STRUCTURE.md) — Repository directory breakdown and file tree
+* [License](./LICENSE.md) — Commercial and personal usage terms
 
 ---
 
