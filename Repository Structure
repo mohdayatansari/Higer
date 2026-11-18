@@ -1,0 +1,9 @@
+higer-typeface/
+├── assets/                  # Specimen banners and promotional editorial graphics
+├── fonts/
+│   ├── otf/                 # OpenType font files for desktop publishing
+│   ├── ttf/                 # TrueType font files
+│   └── woff2/               # Web-optimized font files
+├── specimen/                # PDF type specimen and character set sheets
+├── LICENSE.txt              # Licensing terms and usage permissions
+└── README.md                # Documentation
