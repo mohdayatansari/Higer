@@ -11,7 +11,7 @@
 * [Installing & Using Higer](#installing--using-higer)
 * [Repository Structure](#repository-structure)
 * [Current Status & Roadmap](#current-status--roadmap)
-* [License & Credits](#https://github.com/mohdayatansari/Higer/blob/main/License%20%26%20Credits)
+* [License & Credits](./License%20%26%20Credits)
 
 ---
 
@@ -22,7 +22,7 @@ The name **Higer** draws from two complementary ideas: phonetically echoing *"Hi
 Visually, the typeface translates the raw geometry of high-altitude alpine terrain into typographic form:
 
 * **High Optical Contrast:** Thick, authoritative vertical stems contrast sharply against delicate hairline crossbars and curves, mirroring blinding snowfields beside sheer glacial shadows.
-* **Chiseled Terminals & Serifs:** Crisp, angled serifs anchor each letterform to the baseline with structural certainty.
+* **Chiselled Terminals & Serifs:** Crisp, angled serifs anchor each letterform to the baseline with structural certainty.
 * **Tall Proportions:** Extended ascenders give headlines an effortless, aristocratic presence suited for print spreads, fashion mastheads, and minimalist digital interfaces.
 
 ---
