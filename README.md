@@ -6,8 +6,8 @@
 
 ## Quick Sections
 * [Installation Guide](./Install.md) — Desktop setup and `@font-face` web embedding
-* [Glyph Showcase](./Glyphs.md) — Comprehensive visual specimen and animated glyph set
-* [Glyph & Features](./Features.md) — Complete character map and OpenType tables
+* [Glyphs](./Glyphs.md) — Comprehensive visual specimen and animated glyph set
+* [Features](./Features.md) — Complete character map and OpenType tables
 * [Concept & Anatomy](./Anatomy.md) — Alpine design philosophy and vertical metrics
 * [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
 * [Structure](./Structure.md) — Repository directory breakdown and file tree
