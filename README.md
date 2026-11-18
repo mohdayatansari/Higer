@@ -1,4 +1,4 @@
-<img width="810" height="1080" alt="P8" src="https://github.com/user-attachments/assets/0f6d60b3-4376-4c7a-b306-0ff0897b6695" /># HIGER
+# HIGER
 
 **Higer** is a modern, high-contrast editorial serif typeface designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with razor-sharp, chiselled serifs.
 
@@ -46,20 +46,16 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 2. Select `Higer.otf` (recommended for Adobe Illustrator, InDesign, Photoshop, and Figma).
 3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Window.
 
-
 <table>
   <tr>
     <td width="50%">
-      <video src="![Uploading P8.gif…]()
-" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%"></video>
+      <img width="100%" alt="P16" src="https://github.com/user-attachments/assets/60dac66a-4b41-435a-a228-8a066a11d9b1" />
     </td>
     <td width="50%">
-      <video src="![Uploading P16.gif…]()
-" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%"></video>
+      <img width="100%" alt="P8" src="https://github.com/user-attachments/assets/8326c1c9-3b31-4677-85e0-c6425beedd75" />
     </td>
   </tr>
 </table>
-
 
 ### Web (`@font-face`)
 For optimal web performance, use the compressed `WOFF2` format found in `Fonts/Web-PS/Higer.woff2`:
