@@ -1,5 +1,3 @@
-# License
-
 **Higer** is open-source typeface software licensed under the **SIL Open Font License, Version 1.1**.
 
 ---
