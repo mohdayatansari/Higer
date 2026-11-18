@@ -7,6 +7,7 @@
 Copyright (c) 2026 Mohd Ayat Ansari (YAZZ EDITION), with Reserved Font Name **Higer**.
 
 Copyright (c) 2026, Mohd Ayat Ansari (YAZZ EDITION)) [https://www.linkedin.com/in/mohdayatansari/], with Reserved Font Name, Higer and Higer-Regular.
+
 Copyright (c) 2026, Mohd Ayat Ansari (YAZZ EDITION) [https://www.linkedin.com/in/mohdayatansari/], with Reserved Font Name, Higer-Italic.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
