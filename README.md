@@ -44,12 +44,13 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 ### Desktop (Print & Graphic Design)
 1. Download the latest release from the [Releases](../../releases) page or navigate to the `Fonts/OpenType-PS/Higer.otf` directory.
 2. Select `Higer.otf` (recommended for Adobe Illustrator, InDesign, Photoshop, and Figma).
-3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Windows).
+3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Window.
 
 
-(https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8)  (https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf)
+https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8  
 
 
+https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf
 
 
 ### Web (`@font-face`)
