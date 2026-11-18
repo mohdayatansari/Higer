@@ -3,7 +3,7 @@
 **Higer** is open-source typeface software licensed under the **SIL Open Font License, Version 1.1**.
 
 ---
-
+* [Linkedin Profile](./https://www.linkedin.com/in/mohdayatansari/) 
 Copyright (c) 2026 Mohd Ayat Ansari (YAZZ EDITION), with Reserved Font Name **Higer**.
 
 Copyright (c) 2026, Mohd Ayat Ansari (YAZZ EDITION)) [https://www.linkedin.com/in/mohdayatansari/], with Reserved Font Name, Higer, Higer-Regular and Higer-Italic.
