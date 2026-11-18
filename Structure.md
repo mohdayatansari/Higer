@@ -37,8 +37,8 @@ Higer/
 ├── FEATURES.md
 ├── GLYPHS.md
 ├── INSTALL.md
-├── LICENSE.md
+├── OFL-1.1 license.md
 ├── README.md
 ├── STRUCTURE.md
 ├── Roadmap.md
-└── STRUCTURE.md
+└── Structure.md
