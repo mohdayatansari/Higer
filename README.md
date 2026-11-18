@@ -47,7 +47,7 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Windows).
 
 
-https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8 | https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf
+(https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8)  (https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf)
 
 
 
