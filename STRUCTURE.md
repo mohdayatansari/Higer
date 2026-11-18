@@ -1,4 +1,4 @@
-# Repository Structure
+# Structure
 
 Overview of all directories and documentation files in the **Higer** typeface repository.
 
