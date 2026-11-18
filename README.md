@@ -50,10 +50,10 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 <table>
   <tr>
     <td width="50%">
-      https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8
+      <video src="https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%"></video>
     </td>
     <td width="50%">
-      https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf
+      <video src="https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%"></video>
     </td>
   </tr>
 </table>
