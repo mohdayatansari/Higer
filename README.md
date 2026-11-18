@@ -1,7 +1,5 @@
 # HIGER
 
----
-
 **Higer** is a modern, high-contrast editorial serif typeface designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with razor-sharp chiseled serifs.
 
 ![Higer Type Specimen](assets/higer-specimen-banner.png)
