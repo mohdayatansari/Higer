@@ -1,25 +1,10 @@
-## Free Personal & Commercial Use License (v1.0)
+# License
 
-Copyright (c) 2026 Mohd Ayat Ansari (YAZZ EDITION). All rights reserved.
-
-1. **Permitted Personal & Commercial Use:** You are granted a non-exclusive, non-transferable license to download, install, and use **Higer** free of charge for both **personal and commercial projects**. Permitted uses include client work, brand identities, logos, packaging, editorial layouts, merchandise, paid advertisements, and monetised websites or digital media.
-2. **No Redistribution or Modification:** You may **not** sell, resell, redistribute, sublicense, host on third-party font repositories or download platforms, or modify, rename, or decompile the font software (`Higer.otf`, `Higer.ttf`, `Higer.woff2`) without explicit written consent from Mohd Ayat Ansari.
-3. **License Updates & Future Revocation:** Mohd Ayat Ansari (YAZZ EDITION) reserves the right to modify, update, or revoke the free commercial use terms of this license for future versions or future downloads at any time without prior notice.
-   * **Prior Work Protected (Non-Retroactive):** Any personal or commercial project published, printed, or deployed prior to the effective date of a license update remains permanently covered under the terms of the license version active at the time of its creation, with no retroactive legal liability.
-   * **Post-Update Compliance:** Any new projects, commercial deployments, or downloads initiated on or after the effective date of an updated license must comply with the newly published license terms. Unauthorised commercial use after a revocation or license update may result in legal action for copyright infringement.
-4. **Disclaimer:** The font software is provided "as is", without warranty of any kind, express or implied. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the font software.
-
-# License & Credits
-
-## Credits
-* **Typeface Name:** Higer
-* **Designed & Engineered by:** Mohd Ayat Ansari (YAZZ EDITION)
-* **Portfolio:** [ayat.framer.website](https://ayat.framer.website)
+**Higer** is open-source typeface software licensed under the **SIL Open Font License, Version 1.1**.
 
 ---
 
 Copyright (c) 2026 Mohd Ayat Ansari (YAZZ EDITION), with Reserved Font Name **Higer**.
-
 
 Copyright (c) 2026, Mohd Ayat Ansari (YAZZ EDITION)) [https://www.linkedin.com/in/mohdayatansari/],
 with Reserved Font Name, Higer and Higer-Regular.
