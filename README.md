@@ -11,7 +11,7 @@
 * [Installing & Using Higer](#installing--using-higer)
 * [Repository Structure](#repository-structure)
 * [Current Status & Roadmap](#current-status--roadmap)
-* [License & Credits]([#license--credits](https://github.com/mohdayatansari/Higer/blob/main/License%20%26%20Credits))
+* [License & Credits](#https://github.com/mohdayatansari/Higer/blob/main/License%20%26%20Credits)
 
 ---
 
