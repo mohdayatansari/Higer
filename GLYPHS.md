@@ -1,5 +1,12 @@
 ## Complete Glyph Coverage
 
+---
+
+<img width="3240" height="3282" alt="P24HIger 3" src="https://github.com/user-attachments/assets/b27328f5-c9d5-4351-a8dc-4894dd1643dd" />
+
+
+---
+
 * **Basic & Extended Latin (`A–Z`, `a–z` + Diacritics):** Full support for Western, Central, and Eastern European languages, including accented forms of `A`, `C`, `D`, `E`, `G`, `H`, `I`, `J`, `K`, `L`, `N`, `O`, `R`, `S`, `T`, `U`, `W`, `Y`, and `Z`, alongside `Æ`, `æ`, `Ø`, `ø`, `Œ`, `œ`, `IJ`, `ij`, `Ð`, `ð`, `Þ`, `þ`, `ß` / `ẞ` equivalents, and dotless `ı` / `ȷ`.
 * **Numerals, Fractions & Superiors:**
   * Default proportional lining figures (`0–9`)
