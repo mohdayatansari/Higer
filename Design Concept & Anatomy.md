@@ -43,7 +43,9 @@ Engineered on a standard **1000 Units Per Em (UPM)** grid[cite: 24, 25]:
 | **Curve / Corner Tension** | `60%` / `67%`[cite: 24, 26] | Smooth, controlled Bézier curvature across bowls and terminals |
 | **Ink Trap Width** | `2.0`[cite: 24, 26] | Micro-notches at tight acute joins to keep sharp edges crisp |
 
-# Current Status & Roadmap
+---
+
+## Current Status & Roadmap
 
 ## Current Release: v1.0 (Shipped)
 * **Style:** `Higer` (Single upright Regular weight)[cite: 24]
