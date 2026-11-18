@@ -9,9 +9,9 @@
 * [Glyph & Features](./FEATURES.md) — Complete character map and OpenType tables
 * [Concept & Anatomy](./ANATOMY.md) — Alpine design philosophy and vertical metrics
 * [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
-* [Structure](./GLYPHS.md) — Repository directory breakdown and file tree
+* [Structure](./STRUCTURE.md) — Repository directory breakdown and file tree
 * [License](./LICENSE.md) — Commercial and personal usage terms
-* [Glyph Showcase](./SHOWCASE.md) — Comprehensive visual specimen and animated glyph set
+* [Glyph Showcase](./GLYPHS.md) — Comprehensive visual specimen and animated glyph set
 
 ---
 
