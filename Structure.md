@@ -15,10 +15,10 @@ Overview of all directories and documentation files in the **Higer** typeface re
 | **`FEATURES.md`** | Document | Complete character map, custom ligatures, and OpenType feature tables |
 | **`GLYPHS.md`** | Document | Comprehensive visual specimen sheet and animated glyph set[cite: 2] |
 | **`INSTALL.md`** | Document | Desktop installation steps and CSS web embedding guide |
-| **`LICENSE.md`** | Document | SIL Open Font License (OFL) v1.1 usage terms and author attribution |
+| **`OFL-1.1 license.md`** | Document | SIL Open Font License (OFL) v1.1 usage terms and author attribution |
 | **`README.md`** | Document | Main project overview, specimen showcase, and quick navigation |
 | **`Roadmap.md`** | Document | Release v1.0 overview and planned family expansion[cite: 1, 2] |
-| **`STRUCTURE.md`** | Document | Directory breakdown and file tree (this file) |
+| **`Structure.md`** | Document | Directory breakdown and file tree (this file) |
 
 ---
 
