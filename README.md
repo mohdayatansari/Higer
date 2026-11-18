@@ -2,7 +2,7 @@
 
 **Higer** is a modern, high-contrast editorial serif typeface designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with razor-sharp, chiselled serifs.
 
-<img width="2160" height="1440" alt="P11HIGER" src="https://github.com/user-attachments/assets/0c31ead3-8af1-4213-b2db-c81b50a49446" />
+<img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
 
 ## Quick Sections
 * [Installation Guide](./INSTALL.md) — Desktop setup and `@font-face` web embedding
