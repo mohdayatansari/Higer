@@ -5,13 +5,13 @@
 <img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
 
 ## Quick Sections
-* [Installation Guide](./INSTALL.md) — Desktop setup and `@font-face` web embedding
-* [Glyph & Features](./FEATURES.md) — Complete character map and OpenType tables
-* [Concept & Anatomy](./ANATOMY.md) — Alpine design philosophy and vertical metrics
+* [Installation Guide](./Install.md) — Desktop setup and `@font-face` web embedding
+* [Glyph Showcase](./Glyphs.md) — Comprehensive visual specimen and animated glyph set
+* [Glyph & Features](./Features.md) — Complete character map and OpenType tables
+* [Concept & Anatomy](./Anatomy.md) — Alpine design philosophy and vertical metrics
 * [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
 * [Structure](./Structure.md) — Repository directory breakdown and file tree
 * [License](./OFL-1.1%20license.md) — Commercial and personal usage terms
-* [Glyph Showcase](./GLYPHS.md) — Comprehensive visual specimen and animated glyph set
 
 ---
 
