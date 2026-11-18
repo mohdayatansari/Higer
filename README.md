@@ -47,7 +47,7 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Windows).
 
 ### Web (`@font-face`)
-For optimal web performance, use the compressed `WOFF2` format found in `/fonts/woff2`:
+For optimal web performance, use the compressed `WOFF2` format found in `Fonts/Web-PS/Higer.woff2`:
 
 ```css
 @font-face {
