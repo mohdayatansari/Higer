@@ -2,7 +2,7 @@
 
 **Higer** is a modern, high-contrast editorial serif typeface built for display headlines, luxury brand identities, and contemporary magazine layouts.
 
-<img width="1686" height="828" alt="Frame 1" src="https://github.com/user-attachments/assets/9f6ef0ba-0af6-4b1c-9ebd-e29b77182dd7" />
+<img width="1686" height="828" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/ef1f3379-e47e-467d-9d45-ffc807b447d3" />
 
 ---
 
