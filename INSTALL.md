@@ -1,54 +1,37 @@
 # Installing & Using Higer
 
-Follow the instructions below to install **Higer** on your system for print and graphic design, or embed it into web projects.
-
----
-
-## Package Folders & Formats
-
-Your download package is organised into three format folders:
-
-* **`OpenType-PS/` (`Higer.otf`):** OpenType PostScript/CFF format. Recommended for Adobe Illustrator, InDesign, Photoshop, Figma, and print publishing.
-* **`OpenType-TT/` (`Higer.ttf`):** OpenType TrueType format. Recommended for Windows/macOS system installation and office applications.
-* **`Web-PS/` (`Higer.woff2`):** Web Open Font Format 2. Compressed for fast loading in modern web browsers.
+Instructions for installing **Higer** on your desktop system and embedding it via CSS `@font-face` on the web.
 
 ---
 
 ## Desktop Installation
 
-1. Download the release package from the [Releases](../../releases) page or locate the files inside `Fonts/`.
-2. Open either **`OpenType-PS`** (`Higer.otf`) or **`OpenType-TT`** (`Higer.ttf`).
-3. **Windows:** Right-click the font file and select **Install** (or **Install for all users**).
-4. **macOS:** Double-click the font file to open Font Book, then click **Install Font**.
+1. **Download & Extract:** Open the latest release folder and locate the `Fonts/` directory.
+2. **Choose Your Format:**
+   * **OpenType-PS (`.otf`):** Recommended for print design, Adobe Creative Cloud apps (Illustrator, Photoshop, InDesign), and high-end desktop publishing.
+   * **OpenType-TT (`.ttf`):** Recommended for Microsoft Office, system-wide desktop apps, and general office documents.
+3. **Install:**
+   * **macOS:** Double-click the `.ttf` or `.otf` file and click **Install Font** in Font Book.
+   * **Windows:** Right-click the font file and select **Install** (or install for all users).
 
 ---
 
-## Web Usage (`@font-face`)
+## Web Embedding (`@font-face`)
 
-Point your CSS `@font-face` rule to the **`Web-PS`** folder:
+To use Higer on your website or Framer portfolio (`ayat.framer.website`), use the production-ready WOFF2 file located in `Fonts/Web-PS/`:
 
 ```css
 @font-face {
   font-family: 'Higer';
-  src: url('Fonts/Web-PS/Higer.woff2') format('woff2'),
-       url('Fonts/OpenType-TT/Higer.ttf') format('truetype');
+  src: url('./Fonts/Web-PS/Higer.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
-h1, .editorial-headline {
-  font-family: 'Higer', Georgia, serif;
+/* Example Usage for Display Headlines */
+h1, .display-heading {
+  font-family: 'Higer', serif;
   font-weight: 400;
   letter-spacing: -0.02em;
 }
-
-.editorial-headline {
-  font-feature-settings: "kern" 1, "liga" 1;
-}
-
-.tabular-numbers {
-  font-feature-settings: "tnum" 1;
-}
-
-```
