@@ -44,3 +44,7 @@ Engineered on a standard **1000 Units Per Em (UPM)** grid:
 | **Italic Angle** | `0°` | Upright editorial roman posture |
 | **Curve / Corner Tension** | `60%` / `67%` | Smooth, controlled Bézier curvature across bowls and terminals |
 | **Ink Trap Width** | `2.0` | Micro-notches at tight acute joins to keep sharp edges crisp |
+
+---
+
+<img width="1686" height="828" alt="Frame 3" src="https://github.com/user-attachments/assets/874e38e7-247b-416f-abf1-0fc49e5fb316" />
