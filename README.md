@@ -8,7 +8,7 @@
 * [Installation Guide](./INSTALL.md) — Desktop setup and `@font-face` web embedding
 * [Glyph & Features](./FEATURES.md) — Complete character map and OpenType tables
 * [Concept & Anatomy](./ANATOMY.md) — Alpine design philosophy and vertical metrics
-* [Roadmap](./ROADMAP.md) — Release v1.0 overview and planned family expansion
+* [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
 * [Structure](./STRUCTURE.md) — Repository directory breakdown and file tree
 * [License](./LICENSE.md) — Commercial and personal usage terms
 
