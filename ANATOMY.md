@@ -1,10 +1,10 @@
-# Design Concept, Anatomy & Roadmap
+# Concept & Anatomy
 
 **Higer** is a modern, high-contrast editorial serif typeface built for display headlines, luxury brand identities, and contemporary magazine layouts.
 
 ---
 
-## Design Concept & Anatomy
+## Concept & Anatomy
 
 ### Etymology & Conceptual Foundation
 The name **Higer** brings together two complementary ideas:
