@@ -9,7 +9,7 @@
 * [Design Concept & Anatomy](#design-concept--anatomy)
 * [Character Set & OpenType Features](#character-set--opentype-features)
 * [Installing & Using Higer](#installing--using-higer)
-* [Repository Structure](./Repository%20%26%20Structure)
+* [Repository Structure](./Repository%20Structure)
 * [Current Status & Roadmap](#current-status--roadmap)
 * [License & Credits](./License%20%26%20Credits)
 
