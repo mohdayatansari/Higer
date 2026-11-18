@@ -47,9 +47,17 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Window.
 
 
-| Motion Specimen 01 | Motion Specimen 02 |
-| :---: | :---: |
-| https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8 | https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf |
+<table>
+  <tr>
+    <td width="50%">
+      https://github.com/user-attachments/assets/148faa82-06e7-46d8-aac0-e57be38570c8
+    </td>
+    <td width="50%">
+      https://github.com/user-attachments/assets/e029a77d-497e-4e19-b116-cb29270a06cf
+    </td>
+  </tr>
+</table>
+
 
 ### Web (`@font-face`)
 For optimal web performance, use the compressed `WOFF2` format found in `Fonts/Web-PS/Higer.woff2`:
