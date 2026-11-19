@@ -5,37 +5,36 @@
 <img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
 
 ## Quick Sections
-* [Installation Guide](./Install.md) — Desktop setup and `@font-face` web embedding
-* [Glyphs](./Glyphs.md) — Comprehensive visual specimen and animated glyph set
-* [Features](./Features.md) — Complete character map and OpenType tables
-* [Concept & Anatomy](./Anatomy.md) — Alpine design philosophy and vertical metrics
-* [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
-* [Structure](./Structure.md) — Repository directory breakdown and file tree
-* [License](./OFL-1.1%20license.md) — Commercial and personal usage terms
+- [Installation Guide](./Install.md) — Desktop setup and `@font-face` web embedding
+- [Glyphs](./Glyphs.md) — Comprehensive visual specimen and animated glyph set
+- [Features](./Features.md) — Complete character map and OpenType tables
+- [Concept & Anatomy](./Anatomy.md) — Alpine design philosophy and vertical metrics
+- [Roadmap](./Roadmap.md) — Release v1.0 overview and planned family expansion
+- [Structure](./Structure.md) — Repository directory breakdown and file tree
+- [License](./OFL-1.1%20license.md) — Commercial and personal usage terms
 
 ---
 
-## Design Concept & Anatomy
+## Concept
 
 The name **Higer** draws from two complementary ideas: phonetically echoing *"Higher"* to evoke vertical elevation and ambition, while nodding to its Old High German linguistic root (*Häger*), which signifies structure, boundary, and permanence.
 
 Visually, the typeface translates the raw geometry of high-altitude alpine terrain into typographic form:
 
-* **High Optical Contrast:** Thick, authoritative vertical stems contrast sharply against delicate hairline crossbars and curves, mirroring blinding snowfields beside sheer glacial shadows.
-* **Chiselled Terminals & Serifs:** Crisp, angled serifs anchor each letterform to the baseline with structural certainty.
-* **Tall Proportions:** Extended ascenders give headlines an effortless, aristocratic presence suited for print spreads, fashion mastheads, and minimalist digital interfaces.
+- **High Optical Contrast:** Thick, authoritative vertical stems contrast sharply against delicate hairline crossbars and curves, mirroring blinding snowfields beside sheer glacial shadows.
+- **Chiselled Terminals & Serifs:** Crisp, angled serifs anchor each letterform to the baseline with structural certainty.
+- **Tall Proportions:** Extended ascenders give headlines an effortless, aristocratic presence suited for print spreads, fashion mastheads, and minimalist digital interfaces.
 
 ---
 
-## Character Set & OpenType Features
+## Character Sets
 
 **Higer Regular (v1.0)** is engineered with refined spacing, custom kerning classes, and essential OpenType features for clean editorial typesetting:
 
-* **Uppercase & Lowercase:** Full basic Latin alphabet (`A-Z`, `a-z`)
-* **Numerals & Punctuation:** Lining figures (`0-9`), standard punctuation, brackets, and editorial symbols
-* **Currency Symbols:** Includes standard currencies (`$`, `€`, `£`, `¥`, `₹`, `ƒ`)
-* **Standard & Discretionary Ligatures (`liga`, `dlig`):** Custom-drawn ligatures including `fi`, `fl`, and `t_g` for seamless glyph flow
-* **Metrics & Kerning (`kern`):** Custom sidebearing formulas and class-based kerning pairs tuned for large display sizes
+- **Uppercase & Lowercase:** Full basic Latin alphabet (`A-Z`, `a-z`) and extended European diacritics
+- **Numerals & Punctuation:** Proportional and tabular lining figures (`0-9`), fractions, brackets, and editorial symbols
+- **Currency Symbols:** Includes standard currencies (`$`, `€`, `£`, `¥`, `₹`, `ƒ`)
+- **Standard & Discretionary Ligatures (`liga`, `dlig`):** Custom-drawn ligatures including `fi`, `fl`, `ffi`, `ffl`, `fj`, `ta`, `tg`, `ts`, `ax`, `as`, and `ij` for seamless glyph flow
 
 ---
 
@@ -52,21 +51,21 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 
 ---
 
-## Installing & Using Higer
+## Installing
 
 ### Desktop (Print & Graphic Design)
 1. Download the latest release from the [Releases](../../releases) page or navigate to the `Fonts/OpenType-PS/Higer.otf` directory.
 2. Select `Higer.otf` (recommended for Adobe Illustrator, InDesign, Photoshop, and Figma).
-3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Window.
+3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Windows).
 
 ### Web (`@font-face`)
-For optimal web performance, use the compressed `WOFF2` format found in `Fonts/Web-PS/Higer.woff2`:
+For optimal web performance, use the compressed `WOFF2` format found in `Fonts/Web-PS/Higer.woff2`[cite: 12]:
 
 ```css
 @font-face {
   font-family: 'Higer';
-  src: url('fonts/woff2/Higer-Regular.woff2') format('woff2'),
-       url('fonts/ttf/Higer-Regular.ttf') format('truetype');
+  src: url('Fonts/Web-PS/Higer.woff2') format('woff2'),
+       url('Fonts/OpenType-TT/Higer.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
