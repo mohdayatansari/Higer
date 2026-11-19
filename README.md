@@ -87,5 +87,8 @@ For optimal web performance, use the compressed `WOFF2` format found in `Fonts/W
 h1, .editorial-headline {
   font-family: 'Higer', Georgia, serif;
   font-weight: 400;
+  font-synthesis: none;
   letter-spacing: -0.02em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
