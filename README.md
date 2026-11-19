@@ -38,6 +38,21 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 
 ---
 
+## OpenType Features
+
+Higer includes built-in OpenType layout features accessible in Adobe Creative Cloud, Figma, and modern CSS (`font-feature-settings`):
+
+| Feature Tag | Name | Function |
+| :--- | :--- | :--- |
+| **`liga`** | Standard Ligatures | Automatically joins `fi`, `fl`, `ffi`, `ffl`, and `fj` to prevent terminal collisions |
+| **`dlig`** | Discretionary Ligatures | Unlocks bespoke editorial joins (`ta`, `tg`, `ts`, `ax`, `as`, `ij`) for expressive display headlines |
+| **`tnum`** | Tabular Figures | Switches default proportional figures to monospaced numerals (`zero.tf`–`nine.tf`) for vertical column alignment |
+| **`kern`** | Pair Kerning | Class-based spacing adjustments tuned specifically for tight display headlines |
+
+*For complete glyph tables and CSS activation snippets, see [Features.md](./Features.md).*
+
+---
+
 <table>
   <tr>
     <td width="50%">
