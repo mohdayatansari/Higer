@@ -1,6 +1,6 @@
 # Repository Structure
 
-Overview of all directories and documentation files in the **Higer** typeface repository.
+Overview of all directories and documentation files in the **Higer-Regular** typeface repository.
 
 ---
 
@@ -24,7 +24,7 @@ Overview of all directories and documentation files in the **Higer** typeface re
 ## Folder Tree
 
 ```text
-Higer/
+Higer-Regular/
 ├── Fonts/
 │   ├── OpenType-PS/
 │   │   └── Higer-Regular.otf
