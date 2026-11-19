@@ -1,26 +1,26 @@
-# Installing & Using Higer
+# Installing 
 
-Guide for installing **Higer** on your local operating system and embedding it on the web using CSS `@font-face`.
+Guide for installing **Higer-Regular** on your local operating system and embedding it on the web using CSS `@font-face`.
 
 ---
 
 ## Desktop Installation
 
 ### macOS
-1. Double-click the font file (`Higer.otf` or `Higer.ttf`) to open **Font Book**.
+1. Double-click the font file (`Higer-Regular.otf`) to open **Font Book**.
 2. Click **Install Font**.
 3. Alternatively, drag and drop the files into your user `Library/Fonts` folder.
 
 ### Windows (10 / 11)
-1. Right-click `Higer.otf` or `Higer.ttf`.
+1. Right-click `Higer-Regular.otf` or `Higer-Regular.ttf`.
 2. Select **Install** (or *Install for all users*).
-3. The font will be available immediately across Adobe Creative Cloud, Affinity, and office applications.
+3. The font will be available immediately across Adobe Creative Cloud, Affinity, and Office applications.
 
 ---
 
 ## Web Embedding (`@font-face`)
 
-To use Higer on your website, host the WOFF2 file (`Higer.woff2`) on your server and include this snippet in your CSS:
+To use Higer on your website, host the WOFF2 file (`Higer-Regular.woff2`) on your server and include this snippet in your CSS:
 
 ```css
 @font-face {
