@@ -12,7 +12,7 @@ Guide for installing **Higer-Regular** on your local operating system and embedd
 3. Alternatively, drag and drop the files into your user `Library/Fonts` folder.
 
 ### Windows (10 / 11)
-1. Right-click `Higer-Regular.otf` or `Higer-Regular.ttf`.
+1. Right-click `Higer-Regular.otf`.
 2. Select **Install** (or *Install for all users*).
 3. The font will be available immediately across Adobe Creative Cloud, Affinity, and Office applications.
 
