@@ -8,9 +8,8 @@ Overview of all directories and documentation files in the **Higer** typeface re
 
 | Path | Type | Description |
 | :--- | :--- | :--- |
-| **`Fonts/OpenType-PS/`** | Folder | Contains `Higer.otf` (PostScript/CFF outlines for print & design apps) |
-| **`Fonts/OpenType-TT/`** | Folder | Contains `Higer.ttf` (TrueType outlines for desktop system & office use) |
-| **`Fonts/Web-PS/`** | Folder | Contains `Higer.woff2` (Web-optimized font file for `@font-face`) |
+| **`Fonts/OpenType-PS/`** | Folder | Contains `Higer-Regular.otf` (PostScript/CFF outlines for print & design apps) |
+| **`Fonts/Web-PS/`** | Folder | Contains `Higer-Regular.woff2` (Web-optimized font file for `@font-face`) |
 | **`Anatomy.md`** | Document | Alpine design philosophy, anatomy labels, and vertical metrics |
 | **`Features.md`** | Document | Complete character map, custom ligatures, and OpenType feature tables |
 | **`Glyphs.md`** | Document | Comprehensive visual specimen sheet and animated glyph set[cite: 2] |
@@ -28,11 +27,9 @@ Overview of all directories and documentation files in the **Higer** typeface re
 Higer/
 ├── Fonts/
 │   ├── OpenType-PS/
-│   │   └── Higer.otf
-│   ├── OpenType-TT/
-│   │   └── Higer.ttf
+│   │   └── Higer-Regular.otf
 │   ├── Web-PS/
-│       └── Higer.woff2
+│       └── Higer-Regular.woff2
 ├── Anatomy.md
 ├── Features.md
 ├── Glyphs.md
