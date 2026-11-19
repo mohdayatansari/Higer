@@ -1,4 +1,4 @@
-# Design Concept & Anatomy
+# Concept & Anatomy
 
 **Higer-Regular** is a modern, high-contrast editorial serif typeface built for display headlines, luxury brand identities, and contemporary magazine layouts.
 
