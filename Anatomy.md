@@ -1,6 +1,6 @@
 # Design Concept & Anatomy
 
-**Higer** is a modern, high-contrast editorial serif typeface built for display headlines, luxury brand identities, and contemporary magazine layouts.
+**Higer-Regular** is a modern, high-contrast editorial serif typeface built for display headlines, luxury brand identities, and contemporary magazine layouts.
 
 <img width="1686" height="828" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/ef1f3379-e47e-467d-9d45-ffc807b447d3" />
 
@@ -8,7 +8,7 @@
 
 ## Etymology & Conceptual Foundation
 
-The name **Higer** brings together two complementary ideas:
+The name **Higer-Regular** brings together two complementary ideas:
 * **Phonetic Elevation:** Echoing *"Higher,"* the name reflects vertical momentum, tall proportions, and editorial prestige.
 * **Structural Permanence:** Rooted in the Old High German term *Häger* (meaning an enclosure, boundary, or guarded clearing), it signifies architectural discipline and deliberate form.
 
@@ -18,7 +18,7 @@ Visually, the typeface translates the stark geometry of high-altitude alpine ter
 
 ## Typographic Anatomy & Construction
 
-Every glyph in Higer was drafted as vector paths in Adobe Illustrator and engineered in FontLab 8 with unified structural rules:
+Every glyph in Higer-Regular was drafted as vector paths in Adobe Illustrator and engineered in FontLab 8 with unified structural rules:
 
 * **High Optical Contrast & Vertical Stress:** Thick primary stems transition sharply into delicate hairline crossbars and curves along a clean `0°` vertical stress axis, giving large display headlines crisp editorial authority.
 * **Chiseled Serifs & Ink Traps:** Sharp, lightly bracketed serifs anchor each stem firmly to the baseline and cap line, supported by subtle `2.0` unit ink traps to preserve corner sharpness at high contrast.
