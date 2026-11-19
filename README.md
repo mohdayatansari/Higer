@@ -1,6 +1,6 @@
-# HIGER
+# Higer-Regular
 
-**Higer** is a modern, high-contrast editorial serif typeface designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with razor-sharp, chiselled serifs.
+**Higer-Regular** is a modern, high-contrast editorial serif typeface designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with razor-sharp, chiselled serifs.
 
 <img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
 
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-The name **Higer** draws from two complementary ideas: phonetically echoing *"Higher"* to evoke vertical elevation and ambition, while nodding to its Old High German linguistic root (*Häger*), which signifies structure, boundary, and permanence.
+The name **Higer-Regular** draws from two complementary ideas: phonetically echoing *"Higher"* to evoke vertical elevation and ambition, while nodding to its Old High German linguistic root (*Häger*), which signifies structure, boundary, and permanence.
 
 Visually, the typeface translates the raw geometry of high-altitude alpine terrain into typographic form:
 
@@ -29,7 +29,7 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 
 ## Character Sets
 
-**Higer Regular (v1.0)** is engineered with refined spacing, custom kerning classes, and essential OpenType features for clean editorial typesetting:
+**Higer-Regular (v1.0)** is engineered with refined spacing, custom kerning classes, and essential OpenType features for clean editorial typesetting:
 
 - **Uppercase & Lowercase:** Full basic Latin alphabet (`A-Z`, `a-z`) and extended European diacritics
 - **Numerals & Punctuation:** Proportional and tabular lining figures (`0-9`), fractions, brackets, and editorial symbols
@@ -68,18 +68,17 @@ Higer includes built-in OpenType layout features accessible in Adobe Creative Cl
 
 ## Installing
 
-1. Download the latest release from the [Releases](../../releases) page or navigate to the `Fonts/OpenType-PS/Higer.otf` directory.
-2. Select `Higer.otf` (recommended for Adobe Illustrator, InDesign, Photoshop, and Figma).
+1. Download the latest release from the [Releases](../../releases) page or navigate to the `Fonts/OpenType-PS/Higer-Regular.otf` directory.
+2. Select `Higer-Regular.otf` (recommended for Adobe Illustrator, InDesign, Photoshop, and Figma).
 3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Windows).
 
 ### Web (`@font-face`)
-For optimal web performance, use the compressed `WOFF2` format found in `Fonts/Web-PS/Higer.woff2`[cite: 12]:
+For optimal web performance, use the compressed `WOFF2` format found in `Fonts/Web-PS/Higer-Regular.woff2`[cite: 12]:
 
 ```css
 @font-face {
   font-family: 'Higer';
   src: url('Fonts/Web-PS/Higer.woff2') format('woff2'),
-       url('Fonts/OpenType-TT/Higer.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
