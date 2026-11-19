@@ -1,6 +1,6 @@
 ## Complete Glyph Coverage
 
-<img width="2160" height="4015" alt="P24HIger 3 (2)" src="https://github.com/user-attachments/assets/6e818132-c2a6-4129-b892-185729229259" />
+<img width="2160" height="4015" alt="P24HIger 3 (4)" src="https://github.com/user-attachments/assets/9e806805-15f3-45a6-817d-b8fe44ea9f91" />
 
 ---
 
