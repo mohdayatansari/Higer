@@ -17,7 +17,7 @@
 
 ## Custom Ligatures 
 
-Higer includes 12 custom-drawn ligatures designed to eliminate stroke collisions and preserve crisp horizontal rhythm in display headlines:
+Higer-Regular includes 12 custom-drawn ligatures designed to eliminate stroke collisions and preserve crisp horizontal rhythm in display headlines:
 
 | Ligature | Glyph Name | Description |
 | :--- | :--- | :--- |
