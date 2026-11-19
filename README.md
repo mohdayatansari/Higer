@@ -49,7 +49,7 @@ Higer includes built-in OpenType layout features accessible in Adobe Creative Cl
 | **`tnum`** | Tabular Figures | Switches default proportional figures to monospaced numerals (`zero.tf`–`nine.tf`) for vertical column alignment |
 | **`kern`** | Pair Kerning | Class-based spacing adjustments tuned specifically for tight display headlines |
 
-*For complete glyph tables and CSS activation snippets, see [Features.md](./Features.md).*
+*For complete glyph tables and CSS activation snippets, see [Features](./Features.md).*
 
 ---
 
@@ -102,3 +102,5 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below and is also available with an FAQ at:
 https://openfontlicense.org
+
+*For complete information, see [License](./License.md).*
