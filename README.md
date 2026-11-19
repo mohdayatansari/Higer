@@ -15,7 +15,7 @@
 
 ---
 
-## Concept
+## Introduction
 
 The name **Higer** draws from two complementary ideas: phonetically echoing *"Higher"* to evoke vertical elevation and ambition, while nodding to its Old High German linguistic root (*Häger*), which signifies structure, boundary, and permanence.
 
