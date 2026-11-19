@@ -2,7 +2,7 @@
 
 ## Current Release: v1.0 (Shipped)
 * **Style:** `Higer` (Single upright Regular weight)
-* **Formats Available:** OpenType CFF (`.otf`), TrueType (`.ttf`), and Web Open Font Format 2 (`.woff2`)
+* **Formats Available:** OpenType CFF (`.otf`), and Web Open Font Format 2 (`.woff2`)
 * **Character Coverage:** Basic & Extended European Latin (`A–Z`, `a–z`, full diacritics), lining and tabular numerals (`0–9`, `zero.tf`–`nine.tf`), currency symbols (including `₹`, `$`, `€`, `£`, `¥`, `ƒ`), vulgar fractions (`¼`, `½`, `¾`), and editorial punctuation
 * **OpenType Engineering:** 12 custom ligatures (`liga`), class-based kerning (`kern`), localized forms (`locl`), mark positioning (`mark`), fractions (`frac`), superscripts (`sups`), ordinals (`ordn`), and tabular figures (`tnum`)
 
