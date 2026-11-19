@@ -97,12 +97,8 @@ h1, .editorial-headline {
 
 ## License
 
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below and is also available with an FAQ at:
 https://openfontlicense.org
-
-Copyright (c) 2026 Mohd Ayat Ansari (YAZZ EDITION), with Reserved Font Name **Higer-Regular**.
-
------------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
------------------------------------------------------------
