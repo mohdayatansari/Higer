@@ -68,7 +68,6 @@ Higer includes built-in OpenType layout features accessible in Adobe Creative Cl
 
 ## Installing
 
-### Desktop (Print & Graphic Design)
 1. Download the latest release from the [Releases](../../releases) page or navigate to the `Fonts/OpenType-PS/Higer.otf` directory.
 2. Select `Higer.otf` (recommended for Adobe Illustrator, InDesign, Photoshop, and Figma).
 3. Double-click the file and click **Install Font** (macOS) or right-click and select **Install** (Windows).
