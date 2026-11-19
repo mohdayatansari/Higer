@@ -1,8 +1,8 @@
 ## OpenType Layout Features
 
-All 9 OpenType feature tables compiled in Higer:
+All 9 OpenType feature tables compiled in Higer-Regular:
 
-| Tag | Feature Name | Function in Higer |
+| Tag | Feature Name | Function in Higer-Regular |
 | :--- | :--- | :--- |
 | **`kern`** | Kerning | Class-based horizontal pair adjustments for balanced headline spacing |
 | **`liga`** | Standard Ligatures | Automatic substitution for all 12 custom ligatures |
@@ -11,5 +11,5 @@ All 9 OpenType feature tables compiled in Higer:
 | **`sups`** | Superscripts | Substitutes standard figures with properly scaled superior numerals |
 | **`ordn`** | Ordinals | Automatically formats ordinal indicators (such as `1st`, `2nd`, `Nº`) |
 | **`mark`** | Mark Positioning | Anchor-based attachment for accurate diacritic placement |
-| **`locl`** | Localized Forms | Language-specific glyph substitutions (including Czech/Slovak `lcaron.loclCSZ` and `tcaron.loclCSZ`, plus comma-accent forms) |
+| **`locl`** | Localised Forms | Language-specific glyph substitutions (including Czech/Slovak `lcaron.loclCSZ` and `tcaron.loclCSZ`, plus comma-accent forms) |
 | **`aalt`** | Access All Alternates | Exposes all alternate glyphs and ligatures in the Glyphs panel of design software |
