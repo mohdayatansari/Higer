@@ -25,14 +25,17 @@ To use Higer on your website, host the WOFF2 file (`Higer-Regular.woff2`) on you
 ```css
 @font-face {
   font-family: 'Higer';
-  src: url('fonts/Higer.woff2') format('woff2');
+  src: url('Fonts/Web-PS/Higer-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
-h1, h2, .display-headline {
-  font-family: 'Higer', serif;
+h1, .editorial-headline {
+  font-family: 'Higer', Georgia, serif;
   font-weight: 400;
-  font-style: normal;
+  font-synthesis: none;
+  letter-spacing: -0.02em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
