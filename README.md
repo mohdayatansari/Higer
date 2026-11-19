@@ -78,7 +78,7 @@ For optimal web performance, use the compressed `WOFF2` format found in `Fonts/W
 ```css
 @font-face {
   font-family: 'Higer';
-  src: url('Fonts/Web-PS/Higer.woff2') format('woff2'),
+  src: url('Fonts/Web-PS/Higer-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
