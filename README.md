@@ -1,6 +1,6 @@
 # Higer-Regular
 
-**Higer** is a cold Didone display serif designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with high stroke contrast and razor-sharp, chiselled serifs.
+**Higer-Regular** is a cold Didone display serif designed for display headlines, luxury branding, and contemporary magazine layouts. Currently released in its foundational **Regular** weight, Higer pairs tall, commanding vertical proportions with high stroke contrast and razor-sharp, chiselled serifs.
 
 <img width="2160" height="1440" alt="P22HIGER" src="https://github.com/user-attachments/assets/e92ba373-5dff-4605-853a-60806695dec6" />
 
@@ -40,7 +40,7 @@ Visually, the typeface translates the raw geometry of high-altitude alpine terra
 
 ## OpenType Features
 
-Higer includes built-in OpenType layout features accessible in Adobe Creative Cloud, Figma, and modern CSS (`font-feature-settings`):
+Higer-Regular includes built-in OpenType layout features accessible in Adobe Creative Cloud, Figma, and modern CSS (`font-feature-settings`):
 
 | Feature Tag | Name | Function |
 | :--- | :--- | :--- |
