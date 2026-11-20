@@ -53,16 +53,7 @@ Higer-Regular includes built-in OpenType layout features accessible in Adobe Cre
 
 ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="P16" src="https://github.com/user-attachments/assets/60dac66a-4b41-435a-a228-8a066a11d9b1" />
-    </td>
-    <td width="50%">
-      <img width="100%" alt="P8" src="https://github.com/user-attachments/assets/8326c1c9-3b31-4677-85e0-c6425beedd75" />
-    </td>
-  </tr>
-</table>
+<img width="49%" alt="P16" src="https://github.com/user-attachments/assets/60dac66a-4b41-435a-a228-8a066a11d9b1" /> <img width="49%" alt="P8" src="https://github.com/user-attachments/assets/8326c1c9-3b31-4677-85e0-c6425beedd75" />
 
 ---
 
