@@ -14,7 +14,7 @@ Overview of all directories and documentation files in the **Higer-Regular** typ
 | **`Features.md`** | Document | Complete character map, custom ligatures, and OpenType feature tables |
 | **`Glyphs.md`** | Document | Comprehensive visual specimen sheet and animated glyph set[cite: 2] |
 | **`Install.md`** | Document | Desktop installation steps and CSS web embedding guide |
-| **`OFL-1.1 license.md`** | Document | SIL Open Font License (OFL) v1.1 usage terms and author attribution |
+| **`License.md`** | Document | SIL Open Font License (OFL) v1.1 usage terms and author attribution |
 | **`README.md`** | Document | Main project overview, specimen showcase, and quick navigation |
 | **`Roadmap.md`** | Document | Release v1.0 overview and planned family expansion[cite: 1, 2] |
 | **`Structure.md`** | Document | Directory breakdown and file tree (this file) |
@@ -34,7 +34,7 @@ Higer-Regular/
 ├── Features.md
 ├── Glyphs.md
 ├── Install.md
-├── OFL-1.1 license.md
+├── License.md
 ├── README.md
 ├── Roadmap.md
 └── Structure.md
