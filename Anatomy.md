@@ -16,6 +16,14 @@ Visually, the typeface translates the stark geometry of high-altitude alpine ter
 
 ---
 
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="P16" src="https://github.com/user-attachments/assets/00c276b1-4dce-43d3-9a24-b97ecce8499f" />
+    </td>
+  </tr>
+</table>
+
 ## Typographic Anatomy & Construction
 
 Every glyph in Higer-Regular was drafted as vector paths in Adobe Illustrator and engineered in FontLab 8 with unified structural rules:
