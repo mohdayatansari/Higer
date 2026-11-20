@@ -16,7 +16,9 @@ Visually, the typeface translates the stark geometry of high-altitude alpine ter
 
 ---
 
-https://github.com/user-attachments/assets/00c276b1-4dce-43d3-9a24-b97ecce8499f
+<img width="540" height="720" alt="P25" src="https://github.com/user-attachments/assets/74349b43-90f1-4e0c-9d2d-fd66c24ef47d" />
+
+---
 
 ## Typographic Anatomy & Construction
 
