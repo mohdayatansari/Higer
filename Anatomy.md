@@ -16,9 +16,11 @@ Visually, the typeface translates the stark geometry of high-altitude alpine ter
 
 ---
 
-<p align="center">
-  <img width="540" height="720" alt="P25" src="https://github.com/user-attachments/assets/74349b43-90f1-4e0c-9d2d-fd66c24ef47d" />
-</p>
+## Design Concept
+
+**Higer** draws its form from the contrast between steep mountain cliffs and smooth alpine slopes. Rigid vertical stems and sharp serifs give every letter solid structure, while a signature curved notch carved across the typeface brings in a softer, natural rhythm. Rather than illustrating a mountain literally, these notches echo the sweep of a peak and ridgeline. In motion, that small inner curve expands outward to reveal the mountain contour behind the letterform.
+
+<img width="540" height="720" alt="P25" src="https://github.com/user-attachments/assets/74349b43-90f1-4e0c-9d2d-fd66c24ef47d">
 
 ---
 
